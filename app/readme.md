@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="app\src\main\res\mipmap-xxxhdpi\ic_launcher_foreground.webp" alt="Chiba Player Logo" width="200"/>
+</p>
+
 # Chiba Player
 
 ## Overview
@@ -24,6 +28,28 @@ Chiba Player is a modern Android-based media player designed to enhance the expe
 
     *   Adapts layouts dynamically based on screen size.
     *   Provides landscape-specific layouts for larger screens or TVs.
+      
+## App Screenshots
+
+<p align="center">
+  <img src="app\src\main\res\Screenshot\hello.png" alt="Screenshot of menu" width="300"/>
+</p>
+<p align="center">
+  <img src="app\src\main\res\Screenshot\menu.png" alt="Screenshot of TypePlayerActivity" width="300"/>
+</p>
+<p align="center">
+  <em>Screenshot of TypePlayerActivity, where users can select the type of playlist.</em>
+</p>
+
+<p align="center">
+  <img src="app\src\main\res\Screenshot\category.png" alt="Screenshot of CategoryActivity" width="300"/>
+</p>
+<p align="center">
+  <em>Screenshot of CategoryActivity, showing the list of categories.</em>
+</p>
+<p align="center">
+  <img src="app\src\main\res\Screenshot\player.png" alt="Screenshot of player" width="300"/>
+</p>
 
 ## Technical Details
 
@@ -102,7 +128,7 @@ The `ManagePlaylist` class is implemented as a singleton to ensure that there is
 ### Steps to Run
 
 1.  **Clone the repository:**
-    bash git clone https://github.com/yourusername/chiba-player.git
+ *   bash git clone https://github.com/chiheb122/ChibaPlayer.git
 2.  **Open the project in Android Studio.**
 3.  **Sync Gradle files and resolve dependencies:** Android Studio will prompt you to do this after opening the project.
 4.  **Set up an Android emulator (if needed):**
