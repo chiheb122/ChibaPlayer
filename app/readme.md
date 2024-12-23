@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="app\src\main\res\mipmap-xxxhdpi\ic_launcher_foreground.webp" alt="Chiba Player Logo" width="200"/>
+  <img src="src\main\res\mipmap-xxxhdpi\ic_launcher_foreground.webp" alt="Chiba Player Logo" width="200"/>
 </p>
 
 # Chiba Player
