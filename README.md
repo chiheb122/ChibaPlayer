@@ -31,7 +31,7 @@ Chiba Player is a modern Android-based media player designed to enhance the expe
       
 ## App Screenshots
 
-<p align="right">
+<p align="center">
   <img src="app\src\main\res\Screenshot\hello.png" alt="Screenshot of menu" width="300"/>
 </p>
 <p align="center">
