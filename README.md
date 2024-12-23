@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="app\src\main\res\mipmap-xxxhdpi\ic_launcher_foreground.webp" alt="Chiba Player Logo" width="200"/>
+</p>
 # Chiba Player
 
 ## Overview
@@ -24,7 +27,28 @@ Chiba Player is a modern Android-based media player designed to enhance the expe
 
     *   Adapts layouts dynamically based on screen size.
     *   Provides landscape-specific layouts for larger screens or TVs.
+      
+## App Screenshots
 
+<p align="center">
+  <img src="https://ibb.co/7zcy70b" alt="Screenshot of TypePlayerActivity" width="300"/>
+</p>
+<p align="center">
+  <em>Screenshot of TypePlayerActivity, where users can select the type of playlist.</em>
+</p>
+
+<p align="left">
+  <img src="https://ibb.co/7SzBxFR" alt="Screenshot of CategoryActivity" width="300"/>
+</p>
+<p align="center">
+  <em>Screenshot of CategoryActivity, showing the list of categories.</em>
+</p>
+<p align="center">
+  <img src="https://ibb.co/qnqwGfb" alt="Screenshot of menu" width="300"/>
+</p>
+<p align="right">
+  <img src="https://ibb.co/MMfmxrJ" alt="Screenshot of menu" width="300"/>
+</p>
 ## Technical Details
 
 ### Playlist Format
