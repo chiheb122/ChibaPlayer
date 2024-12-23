@@ -32,23 +32,23 @@ Chiba Player is a modern Android-based media player designed to enhance the expe
 ## App Screenshots
 
 <p align="right">
-  <img src="app\src\main\res\mipmap-xxxhdpi\Screenshot\hello.png" alt="Screenshot of menu" width="300"/>
+  <img src="app\src\main\res\Screenshot\hello.png" alt="Screenshot of menu" width="300"/>
 </p>
 <p align="center">
-  <img src="app\src\main\res\mipmap-xxxhdpi\Screenshot\menu.png" alt="Screenshot of TypePlayerActivity" width="300"/>
+  <img src="app\src\main\res\Screenshot\menu.png" alt="Screenshot of TypePlayerActivity" width="300"/>
 </p>
 <p align="center">
   <em>Screenshot of TypePlayerActivity, where users can select the type of playlist.</em>
 </p>
 
 <p align="center">
-  <img src="app\src\main\res\mipmap-xxxhdpi\Screenshot\category.png" alt="Screenshot of CategoryActivity" width="300"/>
+  <img src="app\src\main\res\Screenshot\category.png" alt="Screenshot of CategoryActivity" width="300"/>
 </p>
 <p align="center">
   <em>Screenshot of CategoryActivity, showing the list of categories.</em>
 </p>
 <p align="center">
-  <img src="app\src\main\res\mipmap-xxxhdpi\Screenshot\player.png" alt="Screenshot of player" width="300"/>
+  <img src="app\src\main\res\Screenshot\player.png" alt="Screenshot of player" width="300"/>
 </p>
 
 ## Technical Details
