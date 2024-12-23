@@ -1,0 +1,15 @@
+<!-- res/drawable/triangle_down_with_custom_shape.xml -->
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Triangle pointant vers le bas -->
+    <item>
+        <rotate
+            android:fromDegrees="-45"
+            android:toDegrees="-45"
+            android:pivotX="50%"
+            android:pivotY="50%">
+            <bitmap
+                android:src="@color/teal_200"
+                android:gravity="center" />
+        </rotate>
+    </item>
+</layer-list>

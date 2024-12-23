@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Image lorsque l'état est pressé -->
+    <item android:drawable="@drawable/card_pressed_background" android:state_pressed="true" />
+    <!-- Image par défaut -->
+    <item android:drawable="@drawable/card_default_background" />
+
+</selector>

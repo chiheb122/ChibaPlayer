@@ -1,0 +1,6 @@
+<!-- Exemple de fond par défaut -->
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+    <solid android:color="#FFFFFF" /> <!-- Couleur de fond par défaut -->
+    <corners android:radius="20dp" /> <!-- Coins arrondis, ajustez selon votre besoin -->
+</shape>

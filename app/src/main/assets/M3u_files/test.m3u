@@ -1,0 +1,372 @@
+#EXTINF:-1 tvg-id="1" tvg-country="https://upload.wikimedia.org/wikipedia/commons/3/31/Football_Tunisia.png" tvg-name="Tunisia Nat 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/T%C3%A9l%C3%A9vision_Nationale_1.png" group-title="Tunisia",Tunisia Nat 1
+http://154.58.202.185:8000/play/a03g
+#EXTINF:-1 tvg-id="2" tvg-country="https://upload.wikimedia.org/wikipedia/commons/3/31/Football_Tunisia.png" tvg-name="Tunisia 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/T%C3%A9l%C3%A9vision_Nationale_1.png" group-title="Tunisia HD",Tunisia 1 HD
+http://154.58.202.185:8000/play/a03q
+#EXTINF:-1 tvg-id="4" tvg-name="Tunisia Nat 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/34/T%C3%A9l%C3%A9vision_Nationale_2.png" group-title="Tunisia",Tunisia Nat 2
+http://154.58.202.185:8000/play/a03h
+#EXTINF:-1 tvg-id="4" tvg-name="Tunisia Nat 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/34/T%C3%A9l%C3%A9vision_Nationale_2.png" group-title="Tunisia HD",Tunisia Nat 2 HD
+http://154.58.202.185:8000/play/a03r
+#EXTINF:-1 tvg-id="5" tvg-name="Nessma Ejdida" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/Nessma_El_Jadida_Logo.png" group-title="Tunisia",Nessma Ejdida
+http://154.58.202.185:8000/play/a03j
+#EXTINF:-1 tvg-id="6" tvg-name="Elhiwar Ettounsi" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/8/81/123.png" group-title="Tunisia",Elhiwar Ettounsi
+http://154.197.91.168:7001/play/a0b6/index.m3u8
+#EXTINF:-1 tvg-id="7" tvg-name="Tunisia 1 HD ++" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/T%C3%A9l%C3%A9vision_Nationale_1.png" group-title="Tunisia HD",Tunisia 1 HD ++
+http://149.62.177.103:8000/play/a02f
+#EXTINF:-1 tvg-id="8" tvg-name="Tunisia Nat2 HD ++" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/34/T%C3%A9l%C3%A9vision_Nationale_2.png" group-title="Tunisia HD",Tunisia Nat2 HD ++
+https://ythls.armelin.one/channel/UCJW9gatYczI191TunQxMGbA.m3u8
+#EXTINF:-1 tvg-id="9" tvg-name="Attessia TV" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/6/64/Attessia_TV.png" group-title="Tunisia",Attessia TV
+http://154.58.202.185:8000/play/a03p
+#EXTINF:-1 tvg-id="10" tvg-name="Telvza TV" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/5/5e/Telvza-tv.png" group-title="Tunisia",Telvza TV
+http://154.58.202.185:8000/play/a03n
+#EXTINF:-1 tvg-id="11" tvg-name="Jawhara FM-TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/Logo_Jawhara_FM.jpg" group-title="Tunisia",Jawhara FM-TV
+http://149.62.177.103:8000/play/a029
+#EXTINF:-1 tvg-id="12" tvg-name="Tunisna" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/Logo_tunisna_rogn%C3%A9.png" group-title="Tunisia",Tunisna
+http://154.58.202.185:8000/play/a03m
+#EXTINF:-1 tvg-id="13" tvg-name="Carthage +" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/a/af/Logo-carthageplus.png" group-title="Tunisia",Carthage +
+http://154.58.202.185:8000/play/a03i
+
+
+
+#EXTINF:-1 tvg-id="" tvg-country="https://upload.wikimedia.org/wikipedia/commons/3/31/Football_Tunisia.png" tvg-name="Tunisia 1 HD +++" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/T%C3%A9l%C3%A9vision_Nationale_1.png" group-title="Tunisia HD",Tunisia 1 HD +++
+http://5.253.46.190:7002/play/a0a0
+#EXTINF:-1 tvg-id="" tvg-name="Tunisia Nat 2 HD +++" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/34/T%C3%A9l%C3%A9vision_Nationale_2.png" group-title="Tunisia HD",Tunisia Nat 2 HD
+http://5.253.46.190:7002/play/a0e3
+
+#EXTINF:-1 tvg-id="14" tvg-country="https://upload.wikimedia.org/wikipedia/commons/6/62/Round-Radio.png" tvg-name="IFM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/Logo_Ifm.png" group-title="Radio TN",IFM
+https://youtu.be/DwwoRgor0Js
+#EXTINF:-1 tvg-id="36" tvg-country="https://upload.wikimedia.org/wikipedia/commons/6/62/Round-Radio.png" tvg-name="Mosaique FM" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/7/73/Mosaique_fm_fr-logo.png" group-title="Radio TN",Mosaique FM
+https://webcam.mosaiquefm.net:1936/mosatv/studio/chunklist_w2081792806.m3u8
+#EXTINF:-1 tvg-id="15" tvg-name="Diwan FM" tvg-logo="https://diwanfm.net/template/images/logo.png" group-title="Radio TN",Diwan FM
+http://188.165.181.186:1935/live/diwanfm/playlist.m3u8
+#EXTINF:-1 tvg-id="16" tvg-country="https://upload.wikimedia.org/wikipedia/commons/6/62/Flag_of_France.png" tvg-name="TF1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d1/TF1_1989-1990.png" group-title="France",TF1
+http://185.59.221.131:8081/live/hd1/playlist.m3u8
+#EXTINF:-1 tvg-id="17" tvg-name="M6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/98/M6_International_logo_2020.png" group-title="France",M6
+http://185.59.221.131:8081/live/m6/playlist.m3u8
+#EXTINF:-1 tvg-id="18" tvg-name="France 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/33/France_2_logo.png" group-title="France",France 2
+http://185.59.221.131:8081/live/france2/playlist.m3u8
+#EXTINF:-1 tvg-id="19" tvg-country="https://upload.wikimedia.org/wikipedia/commons/0/0a/Santiagobernabeupanoramav45.JPG" tvg-name="sky sport nba IT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Sky_Sports_logo_2017.svg" group-title="Sports",sky sport nba IT
+http://77.247.109.143:1500/stream/dvb/skysportnbait/master.m3u8
+#EXTINF:-1 tvg-id="20" tvg-name="sky uno IT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Sky_Sport_DE_Logo_2016.png" group-title="Sports",sky uno IT
+http://77.247.109.143:1500/stream/dvb/skyunoit/master.m3u8
+#EXTINF:-1 tvg-id="21" tvg-name="skysport tennis IT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Sky_Sport_DE_Logo_2016.png" group-title="Sports",skysport tennis IT
+http://77.247.109.143:1500/stream/dvb/skysporttennisit/master.m3u8
+#EXTINF:-1 tvg-id="22" tvg-name="sky sport f1 IT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Sky_Sport_DE_Logo_2016.png" group-title="Sports",sky sport f1 IT
+http://77.247.109.143:1500/stream/dvb/skysportf1it/master.m3u8
+#EXTINF:-1 tvg-id="23" tvg-name="sky sport moto gp IT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Sky_Sport_DE_Logo_2016.png" group-title="Sports",sky sport moto gp IT
+http://77.247.109.143:1500/stream/dvb/skysportmotogpit/master.m3u8
+#EXTINF:-1 tvg-id="24" tvg-name="sky sport max IT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Sky_Sport_DE_Logo_2016.png" group-title="Sports",sky sport max IT
+http://77.247.109.143:1500/stream/dvb/skysportmaxit/master.m3u8
+#EXTINF:-1 tvg-id="25" tvg-name="sky sport arena IT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Sky_Sport_DE_Logo_2016.png" group-title="Sports",sky sport arena IT
+http://77.247.109.143:1500/stream/dvb/skysportarenait/master.m3u8
+#EXTINF:-1 tvg-id="26" tvg-name="sky sport calcio IT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Sky_Sport_DE_Logo_2016.png" group-title="Sports",sky sport calcio IT
+http://77.247.109.143:1500/stream/dvb/skysportcalcioit/master.m3u8
+#EXTINF:-1 tvg-id="27" tvg-name="sky sport 24 IT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Sky_Sport_DE_Logo_2016.png" group-title="Sports",sky sport 24 IT
+http://77.247.109.143:1500/stream/dvb/skysport24it/master.m3u8
+#EXTINF:-1 tvg-id="28" tvg-name="SKY BUNDESLIGA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Sky_Sport_DE_Logo_2016.png" group-title="Sports",SKY BUNDESLIGA
+http://181.78.106.127:9000/play/ca028/index.m3u8
+#EXTINF:-1 tvg-id="29" tvg-name="SKY PREMIER" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Sky_Sport_DE_Logo_2016.png" group-title="Sports",SKY PREMIER
+http://181.78.106.127:9000/play/ca029/index.m3u8
+#EXTINF:-1 tvg-id="30" tvg-name="SKY LA LIGA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Sky_Sport_DE_Logo_2016.png" group-title="Sports",SKY LA LIGA
+http://181.78.106.127:9000/play/ca030/index.m3u8
+#EXTINF:-1 tvg-id="31" tvg-country="https://upload.wikimedia.org/wikipedia/commons/b/b6/Logo_FNL_arabe_sport.png" tvg-name="Alkass One HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/%D8%B4%D8%B9%D8%A7%D8%B1_%D9%82%D9%86%D9%88%D8%A7%D8%AA_%D8%A7%D9%84%D9%83%D8%AA%D8%B3.jpg" group-title="Sport AR",Alkass One HD
+http://154.58.202.185:8000/play/a02y
+#EXTINF:-1 tvg-id="32" tvg-name="Alkass Two HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/%D8%B4%D8%B9%D8%A7%D8%B1_%D9%82%D9%86%D9%88%D8%A7%D8%AA_%D8%A7%D9%84%D9%83%D8%AA%D8%B3.jpg" group-title="Sport AR",Alkass Two HD
+http://154.58.202.185:8000/play/a02z
+#EXTINF:-1 tvg-id="33" tvg-name="Alkass Three HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/%D8%B4%D8%B9%D8%A7%D8%B1_%D9%82%D9%86%D9%88%D8%A7%D8%AA_%D8%A7%D9%84%D9%83%D8%AA%D8%B3.jpg" group-title="Sport AR",Alkass Three HD
+http://154.58.202.185:8000/play/a02x
+#EXTINF:-1 tvg-id="34" tvg-name="Alkass Four HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/%D8%B4%D8%B9%D8%A7%D8%B1_%D9%82%D9%86%D9%88%D8%A7%D8%AA_%D8%A7%D9%84%D9%83%D8%AA%D8%B3.jpg" group-title="Sport AR",Alkass Four HD
+http://154.58.202.185:8000/play/a030
+#EXTINF:-1 tvg-id="35" tvg-name="Alkass Five HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/%D8%B4%D8%B9%D8%A7%D8%B1_%D9%82%D9%86%D9%88%D8%A7%D8%AA_%D8%A7%D9%84%D9%83%D8%AA%D8%B3.jpg" group-title="Sport AR",Alkass Five HD
+http://149.62.177.103:8000/play/a080
+
+
+#EXTINF:-1 tvg-country="FR" tvg-name="CANAL+ SPORT 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/Canal%2B_Sport_HD.png" group-title="Sports",CANAL+ SPORT 2 HD
+http://45.65.112.49:8000/play/a04j
+#EXTINF:-1 tvg-country="FR" tvg-name="CANAL+ SPORT 3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/Canal%2B_Sport_HD.png" group-title="Sports",CANAL+ SPORT 3 HD
+http://45.65.112.49:8000/play/a0kq
+#EXTINF:-1 tvg-country="FR" tvg-name="CANAL+ SPORT 4 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/Canal%2B_Sport_HD.png" group-title="Sports",CANAL+ SPORT 4 HD
+http://45.65.112.49:8000/play/a0kr
+#EXTINF:-1 tvg-country="FR" tvg-name="CANAL+ SPORT 5 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/Canal%2B_Sport_HD.png" group-title="Sports",CANAL+ SPORT 5 HD
+http://45.65.112.49:8000/play/a0ku
+#EXTINF:-1 tvg-country="FR" tvg-name="CANAL+ SPORT HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/Canal%2B_Sport_HD.png" group-title="Sports",CANAL+ SPORT HD
+http://45.65.112.49:8000/play/a03a
+#EXTINF:-1 tvg-country="FR" tvg-name="CANAL+1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/Canal%2B_Sport_HD.png" group-title="Sports",CANAL+1 HD
+http://45.65.112.49:8000/play/a04i
+#EXTINF:-1 tvg-country="FR" tvg-name="Eleven Sports 1 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/Canal%2B_Sport_HD.png" group-title="Sports",Eleven Sports 1 4K
+http://45.65.112.49:8000/play/a0bt
+#EXTINF:-1 tvg-country="FR" tvg-name="Eleven Sports 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/Canal%2B_Sport_HD.png" group-title="Sports",Eleven Sports 1 HD
+http://45.65.112.49:8000/play/a05d
+#EXTINF:-1 tvg-country="FR" tvg-name="Eleven Sports 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/Canal%2B_Sport_HD.png" group-title="Sports",Eleven Sports 2 HD
+http://45.65.112.49:8000/play/a052
+#EXTINF:-1 tvg-country="FR" tvg-name="Eleven Sports 3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/Canal%2B_Sport_HD.png" group-title="Sports",Eleven Sports 3 HD
+http://45.65.112.49:8000/play/a04r
+
+#EXTINF:-1 tvg-country="FR" tvg-name="Euronews English HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Eurosport_News_Logo_%282015-2018%29.png" group-title="Sports",Euronews English HD
+http://45.65.112.49:8000/play/a0o6
+#EXTINF:-1 tvg-country="PL" tvg-name="Eurosport 1 Poland HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Eurosport_News_Logo_%282015-2018%29.png" group-title="Sports",Eurosport 1 Poland HD
+http://45.65.112.49:8000/play/a0ke
+#EXTINF:-1 tvg-country="PL" tvg-name="Eurosport 2 Poland HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Eurosport_News_Logo_%282015-2018%29.png" group-title="Sports",Eurosport 2 Poland HD
+http://45.65.112.49:8000/play/a0kf
+#EXTINF:-1 tvg-country="FR" tvg-name="Love Nature 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1d/Love_Nature_TV.png" group-title="Sports",Love Nature 4K
+http://45.65.112.49:8000/play/a0n9
+
+
+#EXTINF:-1 tvg-country="https://upload.wikimedia.org/wikipedia/commons/0/0e/Apple_News_icon_%28iOS%29.png" tvg-name="ABUDHABI TV HD" tvg-logo="http://example.com/logo/abudhabi.png" group-title="News",ABUDHABI TV HD
+http://45.65.112.49:8000/play/a0nw
+#EXTINF:-1 tvg-name="ACISPORT TV" tvg-logo="" group-title="News",ACISPORT TV
+http://45.65.112.49:8000/play/a0ns
+#EXTINF:-1 tvg-name="AL Arabia HD" tvg-logo="" group-title="News",AL Arabia HD
+http://45.65.112.49:8000/play/a0nz
+#EXTINF:-1 tvg-name="AL SHARJAH HD" tvg-logo="" group-title="News",AL SHARJAH HD
+http://45.65.112.49:8000/play/a0nv
+#EXTINF:-1 tvg-name="AL SHARQIYA HD" tvg-logo="" group-title="News",AL SHARQIYA HD
+http://45.65.112.49:8000/play/a0ny
+#EXTINF:-1 tvg-name="Al Ekhbaria HD" tvg-logo="" group-title="News",Al Ekhbaria HD
+http://45.65.112.49:8000/play/a0ia
+#EXTINF:-1 tvg-name="Al Hadath HD" tvg-logo="" group-title="News",Al Hadath HD
+http://45.65.112.49:8000/play/a0o0
+#EXTINF:-1 tvg-name="Al Jazeera Documentary" tvg-logo="" group-title="News",Al Jazeera Documentary
+http://45.65.112.49:8000/play/a0lr
+#EXTINF:-1 tvg-name="Al Jazeera HD" tvg-logo="" group-title="News",Al Jazeera HD
+http://45.65.112.49:8000/play/a0ly
+#EXTINF:-1 tvg-name="Al Jazeera Mubasher" tvg-logo="" group-title="News",Al Jazeera Mubasher
+http://45.65.112.49:8000/play/a0ls
+#EXTINF:-1 tvg-name="Al Mashhad" tvg-logo="" group-title="News",Al Mashhad
+http://45.65.112.49:8000/play/a0o3
+#EXTINF:-1 tvg-name="Al Mayadeen HD" tvg-logo="" group-title="News",Al Mayadeen HD
+http://45.65.112.49:8000/play/a0oo
+
+
+#EXTINF:-1 tvg-country="https://upload.wikimedia.org/wikipedia/commons/8/83/Flag_of_Kingdom_of_Italy_HD_Version.png" tvg-name="Rai 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/c/ce/Rai_Uno_logo.png" group-title="Italie",Rai 1 HD
+http://45.65.112.49:8000/play/a078
+#EXTINF:-1 tvg-country="IT" tvg-name="Rai 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/c/ce/Rai_Uno_logo.png" group-title="Italie",Rai 2 HD
+http://45.65.112.49:8000/play/a079
+#EXTINF:-1 tvg-country="IT" tvg-name="Rai 3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/c/ce/Rai_Uno_logo.png" group-title="Italie",Rai 3 HD
+http://45.65.112.49:8000/play/a07a
+#EXTINF:-1 tvg-country="IT" tvg-name="Rai 3 TGR Abruzzo" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/c/ce/Rai_Uno_logo.png" group-title="Italie",Rai 3 TGR Abruzzo
+http://45.65.112.49:8000/play/a0ms
+#EXTINF:-1 tvg-country="IT" tvg-name="Rai 3 TGR Basilicata" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/c/ce/Rai_Uno_logo.png" group-title="Italie",Rai 3 TGR Basilicata
+http://45.65.112.49:8000/play/a0me
+#EXTINF:-1 tvg-country="IT" tvg-name="Rai 3 TGR Calabria" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/c/ce/Rai_Uno_logo.png" group-title="Italie",Rai 3 TGR Calabria
+http://45.65.112.49:8000/play/a0mf
+#EXTINF:-1 tvg-country="IT" tvg-name="Rai 3 TGR Campania" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/c/ce/Rai_Uno_logo.png" group-title="Italie",Rai 3 TGR Campania
+http://45.65.112.49:8000/play/a0mu
+#EXTINF:-1 tvg-country="IT" tvg-name="Rai 3 TGR Emilia-Romagna" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/c/ce/Rai_Uno_logo.png" group-title="Italie",Rai 3 TGR Emilia-Romagna
+http://45.65.112.49:8000/play/a0mn
+#EXTINF:-1 tvg-country="IT" tvg-name="Rai 3 TGR Friuli Venezia Giulia" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/c/ce/Rai_Uno_logo.png" group-title="Italie",Rai 3 TGR Friuli Venezia Giulia
+http://45.65.112.49:8000/play/a0mv
+#EXTINF:-1 tvg-country="IT" tvg-name="Rai 3 TGR Furlanija Julijska Krajina" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/c/ce/Rai_Uno_logo.png" group-title="Italie",Rai 3 TGR Furlanija Julijska Krajina
+http://45.65.112.49:8000/play/a0mw
+#EXTINF:-1 tvg-country="IT" tvg-name="Rai 3 TGR Lazio" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/c/ce/Rai_Uno_logo.png" group-title="Italie",Rai 3 TGR Lazio
+http://45.65.112.49:8000/play/a0mz
+#EXTINF:-1 tvg-country="IT" tvg-name="Rai 3 TGR Liguria" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/c/ce/Rai_Uno_logo.png" group-title="Italie",Rai 3 TGR Liguria
+http://45.65.112.49:8000/play/a0mh
+#EXTINF:-1 tvg-country="IT" tvg-name="Rai 3 TGR Lombardia" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/c/ce/Rai_Uno_logo.png" group-title="Italie",Rai 3 TGR Lombardia
+http://45.65.112.49:8000/play/a0mm
+#EXTINF:-1 tvg-country="IT" tvg-name="Rai 3 TGR Marche" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/c/ce/Rai_Uno_logo.png" group-title="Italie",Rai 3 TGR Marche
+http://45.65.112.49:8000/play/a0mk
+#EXTINF:-1 tvg-country="IT" tvg-name="Rai 3 TGR Molise" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/c/ce/Rai_Uno_logo.png" group-title="Italie",Rai 3 TGR Molise
+http://45.65.112.49:8000/play/a0mt
+#EXTINF:-1 tvg-country="IT" tvg-name="Rai 3 TGR Piemonte" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/c/ce/Rai_Uno_logo.png" group-title="Italie",Rai 3 TGR Piemonte
+http://45.65.112.49:8000/play/a0ml
+#EXTINF:-1 tvg-country="IT" tvg-name="Rai 3 TGR Puglia" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/c/ce/Rai_Uno_logo.png" group-title="Italie",Rai 3 TGR Puglia
+http://45.65.112.49:8000/play/a0md
+#EXTINF:-1 tvg-country="IT" tvg-name="Rai 3 TGR Sardegna" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/c/ce/Rai_Uno_logo.png" group-title="Italie",Rai 3 TGR Sardegna
+http://45.65.112.49:8000/play/a0mr
+#EXTINF:-1 tvg-country="IT" tvg-name="Rai 3 TGR Sicilia" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/c/ce/Rai_Uno_logo.png" group-title="Italie",Rai 3 TGR Sicilia
+http://45.65.112.49:8000/play/a0mg
+#EXTINF:-1 tvg-country="IT" tvg-name="Rai 3 TGR Südtirol HD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/c/ce/Rai_Uno_logo.png" group-title="Italie",Rai 3 TGR Südtirol HD
+http://45.65.112.49:8000/play/a0mp
+#EXTINF:-1 tvg-country="IT" tvg-name="Rai 3 TGR Toscana" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/c/ce/Rai_Uno_logo.png" group-title="Italie",Rai 3 TGR Toscana
+http://45.65.112.49:8000/play/a0mi
+#EXTINF:-1 tvg-country="IT" tvg-name="Rai 3 TGR Trentino Alto Adige Bolzano" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/c/ce/Rai_Uno_logo.png" group-title="Italie",Rai 3 TGR Trentino Alto Adige Bolzano
+http://45.65.112.49:8000/play/a0my
+#EXTINF:-1 tvg-country="IT" tvg-name="Rai 3 TGR Trentino Alto Adige Trento" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/c/ce/Rai_Uno_logo.png" group-title="Italie",Rai 3 TGR Trentino Alto Adige Trento
+http://45.65.112.49:8000/play/a0mx
+#EXTINF:-1 tvg-country="IT" tvg-name="Rai 3 TGR Umbria" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/c/ce/Rai_Uno_logo.png" group-title="Italie",Rai 3 TGR Umbria
+http://45.65.112.49:8000/play/a0mj
+#EXTINF:-1 tvg-country="IT" tvg-name="Rai 3 TGR Valle d'Aosta" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/c/ce/Rai_Uno_logo.png" group-title="Italie",Rai 3 TGR Valle d'Aosta
+http://45.65.112.49:8000/play/a0mq
+#EXTINF:-1 tvg-country="IT" tvg-name="Rai 3 TGR Veneto" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/c/ce/Rai_Uno_logo.png" group-title="Italie",Rai 3 TGR Veneto
+http://45.65.112.49:8000/play/a0mo
+#EXTINF:-1 tvg-country="IT" tvg-name="Rai 4 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/c/ce/Rai_Uno_logo.png" group-title="Italie",Rai 4 HD
+http://45.65.112.49:8000/play/a07b
+#EXTINF:-1 tvg-country="IT" tvg-name="Rai 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/c/ce/Rai_Uno_logo.png" group-title="Italie",Rai 4K
+http://45.65.112.49:8000/play/a07d
+#EXTINF:-1 tvg-country="IT" tvg-name="Rai 5 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/c/ce/Rai_Uno_logo.png" group-title="Italie",Rai 5 HD
+http://45.65.112.49:8000/play/a0mb
+#EXTINF:-1 tvg-country="IT" tvg-name="Rai Gulp HD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/c/ce/Rai_Uno_logo.png" group-title="Italie",Rai Gulp HD
+http://45.65.112.49:8000/play/a0m9
+#EXTINF:-1 tvg-country="IT" tvg-name="Rai Movie HD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/c/ce/Rai_Uno_logo.png" group-title="Italie",Rai Movie HD
+http://45.65.112.49:8000/play/a07c
+#EXTINF:-1 tvg-country="IT" tvg-name="Rai News 24 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/c/ce/Rai_Uno_logo.png" group-title="Italie",Rai News 24 HD
+http://45.65.112.49:8000/play/a0m8
+#EXTINF:-1 tvg-country="IT" tvg-name="Rai Premium HD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/c/ce/Rai_Uno_logo.png" group-title="Italie",Rai Premium HD
+http://45.65.112.49:8000/play/a0m6
+#EXTINF:-1 tvg-country="IT" tvg-name="Rai Radio 2 Visual" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/c/ce/Rai_Uno_logo.png" group-title="Italie",Rai Radio 2 Visual
+http://45.65.112.49:8000/play/a0m1
+#EXTINF:-1 tvg-country="IT" tvg-name="Rai Scuola HD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/c/ce/Rai_Uno_logo.png" group-title="Italie",Rai Scuola HD
+http://45.65.112.49:8000/play/a0m5
+#EXTINF:-1 tvg-country="IT" tvg-name="Rai Sport HD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/c/ce/Rai_Uno_logo.png" group-title="Italie",Rai Sport HD
+http://45.65.112.49:8000/play/a0ma
+#EXTINF:-1 tvg-country="IT" tvg-name="Rai Storia HD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/c/ce/Rai_Uno_logo.png" group-title="Italie",Rai Storia HD
+http://45.65.112.49:8000/play/a0m2
+#EXTINF:-1 tvg-country="IT" tvg-name="Rai YoYo HD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/c/ce/Rai_Uno_logo.png" group-title="Italie",Rai YoYo HD
+http://45.65.112.49:8000/play/a0m0
+
+
+
+#EXTINF:-1 tvg-id="C202.api.telerama.fr" tvg-country="https://upload.wikimedia.org/wikipedia/commons/1/12/Bluewin.png" tvg-name="RTS Un" tvg-logo="http://static.epg.best/ch/RTS1.ch.png" tvg-chno="91" group-title="SWISSCOM",RTS Un
+rtp://239.186.64.5:10000
+#EXTINF:-1 tvg-id="C202.api.telerama.fr" tvg-name="RTS Un HD" tvg-logo="http://static.epg.best/ch/RTS1.ch.png" tvg-chno="92" group-title="SWISSCOM",RTS Un HD
+rtp://239.186.68.3:10000
+#EXTINF:-1 tvg-id="C183.api.telerama.fr" tvg-name="RTS Deux" tvg-logo="http://static.epg.best/ch/RTS2.ch.png" tvg-chno="93" group-title="SWISSCOM",RTS Deux
+rtp://239.186.64.6:10000
+#EXTINF:-1 tvg-id="C183.api.telerama.fr" tvg-name="RTS Deux HD" tvg-logo="http://static.epg.best/ch/RTS2.ch.png" tvg-chno="94" group-title="SWISSCOM",RTS Deux HD
+rtp://239.186.68.4:10000
+#EXTINF:-1 tvg-id="C192.api.telerama.fr" tvg-name="TF1" tvg-logo="http://static.epg.best/fr/TF1.fr.png" tvg-chno="99" group-title="SWISSCOM",TF1 CH
+rtp://239.186.64.35:10000
+#EXTINF:-1 tvg-id="C192.api.telerama.fr" tvg-name="TF1 Hd" tvg-logo="http://static.epg.best/fr/TF1.fr.png" tvg-chno="100" group-title="SWISSCOM",TF1 CH HD
+rtp://233.35.254.133:1234
+#EXTINF:-1 tvg-id="France2.fr" tvg-name="France 2 FR" tvg-logo="http://static.epg.best/fr/France2.fr.png" tvg-chno="54" group-title="SWISSCOM",France2
+rtp://239.186.64.36:10000
+#EXTINF:-1 tvg-id="France2.fr" tvg-name="France 2 FR" tvg-logo="http://static.epg.best/fr/France2.fr.png" tvg-chno="55" group-title="SWISSCOM",France2 HD
+rtp://239.186.68.19:10000
+#EXTINF:-1 tvg-id="France3.fr" tvg-name="France 3 FR" tvg-logo="http://static.epg.best/fr/France3.fr.png" tvg-chno="56" group-title="SWISSCOM",France3
+rtp://239.186.64.37:10000
+#EXTINF:-1 tvg-id="France3.fr" tvg-name="France 3 FR" tvg-logo="http://static.epg.best/fr/France3.fr.png" tvg-chno="57" group-title="SWISSCOM",France3 HD
+rtp://239.186.70.25:10000
+#EXTINF:-1 tvg-id="France4.fr" tvg-name="France 4 FR" tvg-logo="http://static.epg.best/fr/France4.fr.png" tvg-chno="" group-title="SWISSCOM",France4
+rtp://239.186.64.38:10000
+#EXTINF:-1 tvg-id="France4.fr" tvg-name="France 4 FR" tvg-logo="http://static.epg.best/fr/France4.fr.png" tvg-chno="58" group-title="SWISSCOM",France4 HD
+rtp://239.186.84.55:10000
+#EXTINF:-1 tvg-id="France5" tvg-name="France 5 FR" tvg-logo="http://static.epg.best/fr/France5.fr.png" tvg-chno="59" group-title="SWISSCOM",France5
+rtp://239.186.64.39:10000
+#EXTINF:-1 tvg-id="France5" tvg-name="France 5 FR" tvg-logo="http://static.epg.best/fr/France5.fr.png" tvg-chno="60" group-title="SWISSCOM",France5 HD
+rtp://239.186.70.27:10000
+#EXTINF:-1 tvg-id="M6.fr" tvg-name="M6 FR" tvg-logo="http://static.epg.best/fr/M6.fr.png" tvg-chno="79" group-title="SWISSCOM",M6 CH
+rtp://239.186.64.40:10000
+#EXTINF:-1 tvg-id="M6.fr" tvg-name="M6 FR" tvg-logo="http://static.epg.best/fr/M6.fr.png" tvg-chno="80" group-title="SWISSCOM",M6 CH HD
+rtp://233.35.254.130:1234
+#EXTINF:-1 tvg-id="6ter.fr" tvg-name="6ter FR" tvg-logo="http://static.epg.best/fr/6ter.fr.png" tvg-chno="" group-title="SWISSCOM",6ter CH
+rtp://239.186.66.130:10000
+#EXTINF:-1 tvg-id="6ter.fr" tvg-name="6ter FR" tvg-logo="http://static.epg.best/fr/6ter.fr.png" tvg-chno="" group-title="SWISSCOM",6ter CH HD
+rtp://239.186.68.134:10000
+#EXTINF:-1 tvg-id="TMC.fr" tvg-name="TMC FR" tvg-logo="http://static.epg.best/fr/TMC.fr.png" tvg-chno="103" group-title="SWISSCOM",TMC CH
+rtp://239.186.64.127:10000
+#EXTINF:-1 tvg-id="TMC.fr" tvg-name="TMC FR" tvg-logo="http://static.epg.best/fr/TMC.fr.png" tvg-chno="104" group-title="SWISSCOM",TMC CH HD
+rtp://239.186.70.37:10000
+#EXTINF:-1 tvg-id="NRJ12.fr" tvg-name="NRJ 12 FR" tvg-logo="http://static.epg.best/fr/NRJ12.fr.png" tvg-chno="83" group-title="SWISSCOM",NRJ12 CH
+rtp://239.186.64.58:10000
+#EXTINF:-1 tvg-id="NRJ12.fr" tvg-name="NRJ 12 FR" tvg-logo="http://static.epg.best/fr/NRJ12.fr.png" tvg-chno="84" group-title="SWISSCOM",NRJ12 CH HD
+rtp://239.186.70.33:10000
+#EXTINF:-1 tvg-id="NT1.fr" tvg-name="TFX FR" tvg-logo="http://static.epg.best/fr/TFX.fr.png" tvg-chno="101" group-title="SWISSCOM",TFX CH (ex NT1)
+rtp://239.186.64.42:10000
+#EXTINF:-1 tvg-id="NT1.fr" tvg-name="TFX FR" tvg-logo="http://static.epg.best/fr/TFX.fr.png" tvg-chno="102" group-title="SWISSCOM",TFX CH HD (ex NT1 HD)
+rtp://239.186.70.34:10000
+#EXTINF:-1 tvg-id="C8.fr" tvg-name="C8 FR" tvg-logo="http://static.epg.best/fr/C8.fr.png" tvg-chno="48" group-title="SWISSCOM",C8 CH
+rtp://239.186.64.59:10000
+#EXTINF:-1 tvg-id="C8.fr" tvg-name="C8 FR" tvg-logo="http://static.epg.best/fr/C8.fr.png" tvg-chno="49" group-title="SWISSCOM",C8 CH HD
+rtp://239.186.68.215:10000
+#EXTINF:-1 tvg-id="W9.fr" tvg-name="W9 FR" tvg-logo="http://static.epg.best/fr/W9.fr.png" tvg-chno="113" group-title="SWISSCOM",W9 CH
+rtp://239.186.66.24:10000
+#EXTINF:-1 tvg-id="W9.fr" tvg-name="W9 FR" tvg-logo="http://static.epg.best/fr/W9.fr.png" tvg-chno="114" group-title="SWISSCOM",W9 CH HD
+rtp://239.186.70.38:10000
+#EXTINF:-1 tvg-id="Arte.fr" tvg-name="Arte FR" tvg-logo="http://static.epg.best/fr/ARTE.fr.png" tvg-chno="32" group-title="SWISSCOM",arte F
+rtp://239.186.64.57:10000
+#EXTINF:-1 tvg-id="Arte.fr" tvg-name="Arte FR" tvg-logo="http://static.epg.best/fr/ARTE.fr.png" tvg-chno="33" group-title="SWISSCOM",arte F HD
+rtp://239.186.68.18:10000
+
+
+
+
+
+#EXTINF:-1 tvg-id="8MontBlanc" tvg-name="8 Mont-Blanc FR" tvg-logo="http://static.epg.best/fr/TV8MontBlanc.fr.png" tvg-chno="28" group-title="SWISSCOM",8Mont-Blanc
+rtp://239.186.64.144:10000
+#EXTINF:-1 tvg-id="8MontBlanc" tvg-name="8 Mont-Blanc FR" tvg-logo="http://static.epg.best/fr/TV8MontBlanc.fr.png" tvg-chno="29" group-title="SWISSCOM",8Mont-Blanc HD
+rtp://239.186.70.106:10000
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="34" group-title="SWISSCOM",TeleSwiss HD
+rtp://239.186.68.208:10000
+#EXTINF:-1 tvg-id="BFMBusiness.fr" tvg-name="BFM Business FR" tvg-logo="http://static.epg.best/fr/BFMBusiness.fr.png" tvg-chno="35" group-title="SWISSCOM",BFM BUSINESS
+rtp://239.186.64.146:10000
+#EXTINF:-1 tvg-id="BFMBusiness.fr" tvg-name="BFM Business FR" tvg-logo="http://static.epg.best/fr/BFMBusiness.fr.png" tvg-chno="36" group-title="SWISSCOM",BFM BUSINESS HD
+rtp://239.186.70.74:10000
+#EXTINF:-1 tvg-id="BFMTV.fr" tvg-name="BFM TV FR" tvg-logo="http://static.epg.best/fr/BFMTV.fr.png" tvg-chno="37" group-title="SWISSCOM",BFMTV CH
+rtp://239.186.64.72:10000
+#EXTINF:-1 tvg-id="BFMTV.fr" tvg-name="BFM TV FR" tvg-logo="http://static.epg.best/fr/BFMTV.fr.png" tvg-chno="38" group-title="SWISSCOM",BFMTV CH HD
+rtp://239.186.68.196:10000
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="39" group-title="SWISSCOM",TV Suisse plus
+rtp://239.186.66.239:10000
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="40" group-title="SWISSCOM",TV Suisse plus HD
+rtp://239.186.70.104:10000
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="42" group-title="SWISSCOM",Canal9
+rtp://239.186.64.108:10000
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="43" group-title="SWISSCOM",Canal9 HD
+rtp://239.186.68.144:10000
+#EXTINF:-1 tvg-id="CanalAlpha.ch" tvg-name="Canal Alpha CH" tvg-logo="http://static.epg.best/ch/CanalAlpha.ch.png" tvg-chno="44" group-title="SWISSCOM",Canal Alpha JU
+rtp://239.186.64.106:10000
+#EXTINF:-1 tvg-id="CanalAlpha.ch" tvg-name="Canal Alpha CH" tvg-logo="http://static.epg.best/ch/CanalAlpha.ch.png" tvg-chno="45" group-title="SWISSCOM",CanalAlpha JU HD
+rtp://239.186.68.193:10000
+#EXTINF:-1 tvg-id="CanalAlpha.ch" tvg-name="Canal Alpha CH" tvg-logo="http://static.epg.best/ch/CanalAlpha.ch.png" tvg-chno="46" group-title="SWISSCOM",Canal Alpha NE
+rtp://239.186.64.92:10000
+#EXTINF:-1 tvg-id="CanalAlpha.ch" tvg-name="Canal Alpha CH" tvg-logo="http://static.epg.best/ch/CanalAlpha.ch.png" tvg-chno="47" group-title="SWISSCOM",Canal Alpha NE HD
+rtp://239.186.68.194:10000
+#EXTINF:-1 tvg-id="CStar.fr" tvg-name="CStar FR" tvg-logo="http://static.epg.best/fr/CStar.fr.png" tvg-chno="50" group-title="SWISSCOM",CSTAR
+rtp://239.186.66.26:10000
+#EXTINF:-1 tvg-id="CStar.fr" tvg-name="CStar FR" tvg-logo="http://static.epg.best/fr/CStar.fr.png" tvg-chno="51" group-title="SWISSCOM",CSTAR HD
+rtp://239.186.70.24:10000
+#EXTINF:-1 tvg-id="EuronewsF" tvg-name="Euronews FR" tvg-logo="http://static.epg.best/fr/Euronews.fr.png" tvg-chno="52" group-title="SWISSCOM",euronews. F
+rtp://239.186.64.151:10000
+#EXTINF:-1 tvg-id="EuronewsF" tvg-name="Euronews FR" tvg-logo="http://static.epg.best/fr/Euronews.fr.png" tvg-chno="53" group-title="SWISSCOM",euronews. F HD
+rtp://239.186.70.148:10000
+#EXTINF:-1 tvg-id="L'Equipe21FR" tvg-name="LEquipe21 FR" tvg-logo="http://static.epg.best/fr/LEquipe21.fr.png" tvg-chno="474" group-title="SWISSCOM",EQUIPE HD
+rtp://239.186.79.78:10000
+#EXTINF:-1 tvg-id="FranceInfo" tvg-name="France Info FR" tvg-logo="http://static.epg.best/fr/FranceInfo.fr.png" tvg-chno="62" group-title="SWISSCOM",franceinfo
+rtp://239.186.66.225:10000
+#EXTINF:-1 tvg-id="FranceInfo" tvg-name="France Info FR" tvg-logo="http://static.epg.best/fr/FranceInfo.fr.png" tvg-chno="" group-title="SWISSCOM",franceinfo HD
+rtp://239.186.70.121:10000
+#EXTINF:-1 tvg-id="France24F" tvg-name="France 24 FR" tvg-logo="http://static.epg.best/fr/France24.fr.png" tvg-chno="63" group-title="SWISSCOM",France24
+rtp://239.186.64.41:10000
+#EXTINF:-1 tvg-id="France24F" tvg-name="France 24 FR" tvg-logo="http://static.epg.best/fr/France24.fr.png" tvg-chno="63" group-title="SWISSCOM",France24 HD
+rtp://239.186.70.125:10000
+#EXTINF:-1 tvg-id="Gulli.fr" tvg-name="Gulli FR" tvg-logo="http://static.epg.best/fr/Gulli.fr.png" tvg-chno="64" group-title="SWISSCOM",gulli
+rtp://239.186.66.23:10000
+#EXTINF:-1 tvg-id="Gulli.fr" tvg-name="Gulli FR" tvg-logo="http://static.epg.best/fr/Gulli.fr.png" tvg-chno="65" group-title="SWISSCOM",gulli HD
+rtp://239.186.70.29:10000
+#EXTINF:-1 tvg-id="i24News" tvg-name="I24 News FR" tvg-logo="" tvg-chno="66" group-title="SWISSCOM",i24 NEWS F
+rtp://239.186.66.174:10000
+#EXTINF:-1 tvg-id="i24News" tvg-name="I24 News FR" tvg-logo="" tvg-chno="67" group-title="SWISSCOM",i24 NEWS F HD
+rtp://239.186.70.102:10000
+#EXTINF:-1 tvg-id="CNews.fr" tvg-name="CNews FR" tvg-logo="http://static.epg.best/fr/CNews.fr.png" tvg-chno="68" group-title="SWISSCOM",CNEWS
+rtp://239.186.66.25:10000
+#EXTINF:-1 tvg-id="CNews.fr" tvg-name="CNews FR" tvg-logo="http://static.epg.best/fr/CNews.fr.png" tvg-chno="69" group-title="SWISSCOM",CNEWS HD
+rtp://239.186.70.30:10000
+#EXTINF:-1 tvg-id="KTO" tvg-name="KTO FR" tvg-logo="http://static.epg.best/fr/KTO.fr.png" tvg-chno="70" group-title="SWISSCOM",KtO
+rtp://239.186.64.148:10000
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="71" group-title="SWISSCOM",Grand Geneve TV HD
+rtp://239.186.70.133:10000
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="72" group-title="SWISSCOM",LA TELE
+rtp://239.186.64.104:10000
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="73" group-title="SWISSCOM",LA TELE HD
+rtp://239.186.68.107:10000
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-chno="73" group-title="SWISSCOM",LA TELE FR HD
+rtp://239.186.70.161:10000
+#EXTINF:-1 tvg-id="LCI" tvg-name="LCI FR" tvg-logo="http://static.epg.best/fr/LCI.fr.png" tvg-chno="74" group-title="SWISSCOM",LCI La Chaine Info
+rtp://239.186.66.94:10000
+#EXTINF:-1 tvg-id="LCI" tvg-name="LCI FR" tvg-logo="http://static.epg.best/fr/LCI.fr.png" tvg-chno="75" group-title="SWISSCOM",LCI HD La Chaine Info HD
+rtp://239.186.66.94:10000
+#EXTINF:-1 tvg-id="LemanBleu.ch" tvg-name="Leman Bleu CH" tvg-logo="http://static.epg.best/ch/LemanBleu.ch.png" tvg-chno="76" group-title="SWISSCOM",lemanbleu
+rtp://239.186.64.89:10000
+#EXTINF:-1 tvg-id="2MMonde.ma" tvg-name="2M Monde MA" tvg-logo="http://static.epg.best/ma/2MMonde.ma.png" tvg-chno="419" group-title="SWISSCOM",2M MONDE
+rtp://239.186.64.194:10000
+#EXTINF:-1 tvg-id="Alarabiya.sa" tvg-name="Al Arabiya SA" tvg-logo="http://static.epg.best/sa/Alarabiya.sa.png" tvg-chno="432" group-title="SWISSCOM",Al Arabiya
+rtp://239.186.64.192:10000
+#EXTINF:-1 tvg-id="DubaiTV.ae" tvg-name="Dubai TV AE" tvg-logo="http://static.epg.best/ae/DubaiTV.ae.png" tvg-chno="440" group-title="SWISSCOM",DUBAI
+rtp://239.186.66.119:10000
+#EXTINF:-1 tvg-id="" tvg-name="Food Network E" tvg-logo="" tvg-chno="" group-title="SWISSCOM",Food Network E
+rtp://239.186.66.58:10000
+#EXTINF:-1 tvg-id="18" tvg-name="France 2 UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/33/France_2_logo.png" group-title="France",France 2
+udp://@239.101.10.2:1234
+
+
+

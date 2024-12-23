@@ -1,0 +1,6 @@
+<!-- Exemple de fond pour l'état pressé -->
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+    <solid android:color="#EFF897" /> <!-- Couleur de fond pour l'état pressé -->
+    <corners android:radius="20dp" /> <!-- Coins arrondis, ajustez selon votre besoin -->
+</shape>

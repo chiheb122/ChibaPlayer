@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Chiba PL</string>
+    <!-- Loading Page -->
+    <string name="loading_title">CHIBA PLAYER BETA</string>
+    <!-- Connection Page -->
+    <string name="connection_title_connection">WELCOME</string>
+    <string name="connection_send_button">SEND</string>
+    <string name="connection_url">http://example.com/live/channel1/playlist.m3u8</string>
+    <!-- First Page -->
+    <string name="firstP_livetTV">LiveTV</string>
+    <string name="firstP_movies">Movies</string>
+    <string name="firstP_settings">Settings</string>
+    <string name="firstP_username">Chiba</string>
+    <string name="title_activity_interface">InterfaceActivity</string>
+
+    <!-- type player activity -->
+    <string name="type_player_url">URL</string>
+    <string name="type_player_default">FREE</string>
+    <string name="type_player_local">Load from local</string>
+    <string name="type_player_title">Type Player</string>
+
+    <!-- type player activity url for default button  -->
+    <string name="url_default">M3u_files/test.m3u</string>
+
+
+
+
+</resources>
