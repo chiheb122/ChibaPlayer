@@ -102,7 +102,7 @@ The `ManagePlaylist` class is implemented as a singleton to ensure that there is
 ### Steps to Run
 
 1.  **Clone the repository:**
-    bash git clone https://github.com/yourusername/chiba-player.git
+    bash git clone https://github.com/chiheb122/chiba-player.git
 2.  **Open the project in Android Studio.**
 3.  **Sync Gradle files and resolve dependencies:** Android Studio will prompt you to do this after opening the project.
 4.  **Set up an Android emulator (if needed):**
